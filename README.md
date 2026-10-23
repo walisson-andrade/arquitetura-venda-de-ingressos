@@ -1,7 +1,5 @@
 # Arquitetura – Sistema de Venda de Ingressos (Rock in Rio)
 
-![Diagrama de arquitetura](arquitetura.png)
-
 ## Problemas a resolver
 1. **Pico de acessos** muito maior que a quantidade de ingressos.
 2. **Nunca vender mais ingressos do que existem** (overselling).
